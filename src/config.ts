@@ -1,13 +1,13 @@
 import type { SocialsObject } from "./types";
 
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "default-og.png",
+  website: "https://chaucodes.io",
+  author: "chau",
+  desc: "My personal blog covering all things tech.",
+  title: "chau_codes",
+  ogImage: "",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 4,
 };
 
 export const LOGO_IMAGE = {
@@ -26,7 +26,7 @@ export const SOCIALS: SocialsObject = [
   {
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
@@ -36,7 +36,7 @@ export const SOCIALS: SocialsObject = [
   {
     name: "Linkedin",
     href: "https://github.com/satnaing/astro-paper",
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
@@ -51,12 +51,12 @@ export const SOCIALS: SocialsObject = [
   {
     name: "Twitch",
     href: "https://github.com/satnaing/astro-paper",
-    active: false,
+    active: true,
   },
   {
     name: "YouTube",
     href: "https://github.com/satnaing/astro-paper",
-    active: false,
+    active: true,
   },
   {
     name: "WhatsApp",
@@ -76,7 +76,7 @@ export const SOCIALS: SocialsObject = [
   {
     name: "TikTok",
     href: "https://github.com/satnaing/astro-paper",
-    active: false,
+    active: true,
   },
   {
     name: "CodePen",
