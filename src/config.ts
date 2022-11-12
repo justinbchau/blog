@@ -20,7 +20,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialsObject = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/chaucodes",
     active: true,
   },
   {
@@ -30,7 +30,7 @@ export const SOCIALS: SocialsObject = [
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://instagram.com/chau_codes",
     active: true,
   },
   {
@@ -50,12 +50,12 @@ export const SOCIALS: SocialsObject = [
   },
   {
     name: "Twitch",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://twitch.tv/chau_codes",
     active: true,
   },
   {
     name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://youtube.com/chaucodes",
     active: true,
   },
   {
@@ -76,7 +76,7 @@ export const SOCIALS: SocialsObject = [
   {
     name: "TikTok",
     href: "https://github.com/satnaing/astro-paper",
-    active: true,
+    active: false,
   },
   {
     name: "CodePen",
