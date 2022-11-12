@@ -3,7 +3,7 @@ title: DevRel is Harder Than You Think
 author: chau
 datetime: 2022-11-12T23:21:19Z
 slug: dev-rel-is-harder-than-you-think
-featured: false
+featured: true
 draft: false
 tags:
   - devrel
