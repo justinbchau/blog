@@ -8,7 +8,7 @@ draft: false
 tags:
   - devrel
   - career
-ogImage: "/45.png"
+ogImage: "/public/45.png"
 description:
   There is a lot more to DevRel than you probably thought. This should clear it up for you.
 ---
