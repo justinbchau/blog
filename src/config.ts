@@ -20,7 +20,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialsObject = [
   {
     name: "Github",
-    href: "https://github.com/chaucodes",
+    href: "https://github.com/justinbchau",
     active: true,
   },
   {
@@ -30,7 +30,7 @@ export const SOCIALS: SocialsObject = [
   },
   {
     name: "Instagram",
-    href: "https://instagram.com/chau_codes",
+    href: "https://www.instagram.com/justinbchau/",
     active: true,
   },
   {
@@ -50,7 +50,7 @@ export const SOCIALS: SocialsObject = [
   },
   {
     name: "Twitch",
-    href: "https://twitch.tv/chau_codes",
+    href: "https://www.twitch.tv/chauutv",
     active: true,
   },
   {
